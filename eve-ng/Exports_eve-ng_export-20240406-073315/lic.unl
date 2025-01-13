@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lab name="lic" version="1" scripttimeout="300" countdown="0" lock="0" sat="-1">
+  <topology>
+    <nodes>
+      <node id="1" name="7206VXR" type="dynamips" template="c7200" image="c7200-adventerprisek9-mz.152-4.S7.image" idlepc="0x62f21000" nvram="128" ram="256" console="" delay="0" sat="-1" icon="Router.png" config="0" left="567" top="264"/>
+    </nodes>
+  </topology>
+</lab>
